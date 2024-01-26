@@ -110,7 +110,7 @@ const FBOParticles = () => {
 
 const Scene = () => {
     return (
-        <Canvas camera={{ position: [1.5, 1.5, 2.5] }}>
+        <Canvas camera={{ position: [2, 4, 2] }}>
             <ambientLight intensity={0.5} />
             <FBOParticles />
             <OrbitControls />

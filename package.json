@@ -13,7 +13,8 @@
     "@react-three/drei": "^9.96.1",
     "@react-three/fiber": "^8.15.14",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "vercel": "^33.3.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
